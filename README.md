@@ -3,6 +3,7 @@
 
 **Goal of our Analysis** 
 Our report aims to find the impacts of COVID 19 on ridership among Jersey City Citibike riders and evaluate the impact on common rider metrics.
+
 **Data Description** 
 As part of our analysis of Citibike data, we examined monthly ridership in Jersey City (JC) through the period 1/1/2019 through 4/30/2021. The data is comprised of a number of monthly files containing the following columns: 
 -Trip duration (seconds) 
