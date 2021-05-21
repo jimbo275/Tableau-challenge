@@ -1,5 +1,5 @@
 
-****Citibike data analysis****
+*****Citibike data analysis*****
 
 **Goal of our Analysis** 
 Our report aims to find the impacts of COVID 19 on ridership among Jersey City Citibike riders and evaluate the impact on common rider metrics.
