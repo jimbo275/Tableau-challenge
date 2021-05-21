@@ -3,22 +3,23 @@
 
 **Goal of our Analysis** 
 Our report aims to find the impacts of COVID 19 on ridership among Jersey City Citibike riders and evaluate the impact on common rider metrics.
-Data Description As part of our analysis of Citibike data, we examined monthly ridership in Jersey City (JC) through the period 1/1/2019 through 4/30/2021. The data is comprised of a number of monthly files containing the following columns: 
-Trip duration (seconds) 
-Start Time 
-Stop Time 
-Start Station ID 
-Start Station Name 
-Start Station Latitude 
-Start Station Longitude 
-End Station ID 
-End Station Name 
-End Station Latitude 
-End Station Longitude 
-Bike ID 
-User Type (Subscriber or Customer) 
-Birth Year 
-Gender (0 = Male, 1 = Female, 2 = Not provided)
+**Data Description** 
+As part of our analysis of Citibike data, we examined monthly ridership in Jersey City (JC) through the period 1/1/2019 through 4/30/2021. The data is comprised of a number of monthly files containing the following columns: 
+-Trip duration (seconds) 
+-Start Time 
+-Stop Time 
+-Start Station ID 
+-Start Station Name 
+-Start Station Latitude 
+-Start Station Longitude 
+-End Station ID 
+-End Station Name 
+-End Station Latitude 
+-End Station Longitude 
+-Bike ID 
+-User Type (Subscriber or Customer) 
+-Birth Year 
+-Gender (0 = Male, 1 = Female, 2 = Not provided)
 
 **Data Scrubbing** 
 We imported the data into Python and using the Pandas and geoPy libraries, concatenated the CSV data files into a single large Output file. Using geoPy, we computed the distance in miles between the starting and ending station points. We also removed outliers (e.g. riders with ages above 95 - while not completely out of the ordinary, it would be unlikely for them to be customers). We also compiled a list of the top and bottom stations by ride count and generated a table of top and bottom destination stations. In addition, we converted time duration (in seconds) into hours and used the data-of-birth information to compute rider ages.
