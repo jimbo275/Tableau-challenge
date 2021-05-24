@@ -55,5 +55,6 @@ Graphs of our analysis are published here: https://public.tableau.com/profile/ja
 
 ![image](https://user-images.githubusercontent.com/17952875/119301358-31c20280-bc17-11eb-9850-89edcc91c6f7.png)
 
+![image](https://user-images.githubusercontent.com/17952875/119301542-82d1f680-bc17-11eb-8dc1-c326efb2049d.png)
 
 
