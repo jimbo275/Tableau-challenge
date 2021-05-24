@@ -52,3 +52,8 @@ Average riders tended to ride during commuter hours i.e. 8am or 6pm, with heavie
 Covid 19 impacted ridership by causing rider numbers to fall and subscription/customer counts to change, with more riders choosing to opt for shorter term payment options rather than multi-month subscriptions. Other metrics such as distance travelled, or most/least popular destinations were not impacted due to COVID.
 
 Graphs of our analysis are published here: https://public.tableau.com/profile/james1565#!/vizhome/Tableau_challenge_051421/CitibikeRidership?publish=yes
+
+![image](https://user-images.githubusercontent.com/17952875/119301358-31c20280-bc17-11eb-9850-89edcc91c6f7.png)
+
+
+
